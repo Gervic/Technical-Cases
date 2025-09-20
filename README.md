@@ -1,2 +1,1 @@
-# My projects
- In this repository, you'll find some of my personal projects using python to analyze data
+In this repository, you'll find some of the technical I've developed using python to analyze data
